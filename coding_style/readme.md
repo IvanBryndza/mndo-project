@@ -1,6 +1,6 @@
 # Coding style
 
-Na začátku každého zdrojového souboru musí být hlavička obsahující název projektu a týmu, název komponenty/zdrojového souboru, jméno a školní email autora/ů, licenci, URL odkaz na GitHub repozitář a stručná popis komponenty/zdrojového souboru. Vzor VHDL souboru s hlavičkou najdete zde: [coding_style/vhdl_template.vhd](coding_style/vhdl_template.vhd).
+Na začátku každého zdrojového souboru musí být hlavička obsahující název projektu a týmu, název komponenty/zdrojového souboru, jméno a školní email autora/ů, licenci, URL odkaz na GitHub repozitář a stručná popis komponenty/zdrojového souboru. Vzor VHDL souboru s hlavičkou najdete zde: [vhdl_template.vhd](vhdl_template.vhd).
 
 ## Pravidla pro jednolitost a přehlednost zdrojových kódů:
 
